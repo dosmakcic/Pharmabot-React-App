@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Application name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pharmabot
 
-## Available Scripts
+## App description
 
-In the project directory, you can run:
+A medication consultation chatbot is an application that allows users to receive medication recommendations based on their input through a chat interface. The user will be asked several questions, such as the problem that is bothering them, age, allergies and pregnancy, after which the chatbot will analyze the answers and recommend appropriate medicines.
 
-### `npm start`
+## How to start app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To start this app, first you need to open 2 terminals. One for server side (app.py in src directory), and one for client side. In both terminals you need to be in src directory which is inside the main directory.After that you need to type following commands,each in seperate terminal:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- npm start
+- Python app.py
 
-### `npm test`
+Before running those command you need to be sure that you have all the required dependencies installed:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- `npm install` for starting the React app
 
-### `npm run build`
+- `pip install -r requirements.txt` for starting the Python scipt
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How to use app
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Accesing the app
 
-### `npm run eject`
+After the client and server sides are running, open a web browser (recommended: Chrome, Firefox) and type the address http://localhost:3000/ to access the application.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Interaction with chatbot
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- At the beginning, the first question will be displayed ("What is your problem?"). Enter the answer in the text field and press the "Send" key or the "Enter" key to send the message.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Follow the chatbot's instructions and answer the questions that are asked.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Once you have entered all the necessary answers, the application will process the data and display a recommendation for the appropriate medication.
 
-## Learn More
+### Reseting the chat
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- If you want to start new conversation,  click the button 'Reset' in the bottom-right corner.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Pharmabot application was developed by Dorijan Osmakčić. 

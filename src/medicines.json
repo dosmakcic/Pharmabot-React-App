@@ -1,0 +1,561 @@
+
+{
+  "medicines": [
+  
+      {
+      "name": "Dalgeron C 500 mg/100 mg filmom obložene tablete",
+          "problems": [
+            "Glavobolja",
+            "Bolovi u misicima",
+            "Visoka tjelesna temperatura"
+          ],
+          "allergies": [
+            "Paracetamol",
+            "Kofein"
+          ],
+          "minimum_age": 12,
+          "pregnancy": "Da"
+      },
+      {
+        "name": "Nalgesin 275 mg filmom obložene tablete",
+        "problems": [
+          "Glavobolja",
+          "Zubobolja",
+          "Menstrualna bol",
+          "Visoka tjelesna temperatura",
+          "Bolovi"
+        ],
+        "allergies": [
+          "Naproksen"
+        ],
+        "minimum_age": 16,
+        "pregnancy": "Da"     
+      },
+      {
+        "name": "Gaviscon s okusom peperminta 250 mg/133,5 mg/80 mg tablete za žvakanje",
+        "problems": [
+          "Zgaravica",
+          "Zelučane tegobe"
+        ],
+        "allergies": [
+          "Natrijev alginat",
+          "Natrijev hidrogenkarbonat"
+         
+        ],
+        "minimum_age": 12,
+        "pregnancy":"Da" 
+          
+      },
+      {
+        "name": "Herbion sirup od bršljana",
+        "problems": [
+          "Produktivni kasalj"
+         
+        ],
+        "allergies": [
+          "Bršljan"
+        ],
+       
+        "minimum_age": 2,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name": "Nolpaza control 20 mg želučanootporne tablete",
+        "problems": [
+          "Zgaravica"
+        ],
+        "allergies": [
+          "Pantoprazol"
+        ],
+       
+        "minimum_age": 18,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name": "Imodium 2 mg raspadljive tablete za usta",
+        "problems": [
+          "Proljev",
+          "Osjetljiva crijeva"
+        ],
+        "allergies": [
+          "Lopermamid klorid"
+        ],
+       
+        "minimum_age": 12,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name": "Carmol oralne kapi, otopina",
+        "problems": [
+          "Nadutost"
+        ],
+        "allergies": [
+          "Peruanski balzam",
+          "Levomentol"   
+        ],
+       
+        "minimum_age": 12,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name": "Imodium COMBO 2 mg/125 mg tablete",
+        "problems": [
+          "Nadutost",
+          "Proljev"
+        ],
+        "allergies": [
+          "loperamidklorid",
+          "Simetikon"
+        ],
+        "minimum_age":  12,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name": "Bisolex 2 mg/ml oralne kapi, otopina",
+        "problems": [
+          "Produktivni kasalj",
+          "Zacepljen nos",
+          "Disni problem"
+        ],
+        "allergies": [
+          "Bromheksinklorid",
+          "Metilparahidroksibezoat"
+        ],
+       
+        "minimum_age": 0,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name": "Herbion sirup od islandskog lišaja",
+        "problems": [
+          "Produktivni kasalj"
+        ],
+        "allergies": [
+          "Islandski lišaj"
+        ],
+       
+        "minimum_age": 2,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name":"Lekadol Forte 1000 mg filmom obložene tablete" ,
+        "problems": [
+          "Visoka tjelesna temperatura",
+          "Bolovi"
+        ],
+        "allergies": [
+          "Pantoprazol",
+          "Kukuruzni škrob"
+        ],
+       
+        "minimum_age": 12,
+        "pregnancy":"Da" 
+      },
+      {
+        "name": "Nurofen Forte 400 mg obložene tablete",
+        "problems": [
+          "Glavobolja",
+          "Bolovi",
+          "Zubobolja",
+          "Menstrualna bol"
+        ],
+        "allergies": [
+          "Ibuprofen"
+        ],
+        "minimum_age": 12,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name":"Regaine 50 mg/g pjena za kožu vlasišta" ,
+        "problems": [
+          "Androdgena alopecija"
+        ],
+        "allergies": [
+          "Minoksidil"
+        ],
+        "minimum_age": 18,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name":"Silymarin forte filmom obložene tablete",
+        "problems": [
+          "Jetra"
+        ],
+        "allergies": [
+          "Natrijev škroboglikolat",
+          "Manitol"
+        ],
+        "minimum_age": 18,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name":"Operil 0,5 mg/ml sprej za nos" ,
+        "problems": [
+          "Rinitis"
+        ],
+        "allergies": [
+          "Oksimetazolinklorid"
+        ],
+        "minimum_age": 7,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name":"Operil P 0,25 mg/ml sprej za nos" ,
+        "problems": [
+          "Rinitis"
+        ],
+        "allergies": [
+          "Oksimetazolinklorid"
+        ],
+        "minimum_age": 2,
+        "pregnancy":"Ne" 
+      },
+      {
+        "name":"Visine Classic 0,5 mg/ml kapi za oko, otopina" ,
+        "problems": [
+          "Nadrazeno oko"
+        ],
+        "allergies": [
+          "Tetrizolinklorid"
+        ],
+        "minimum_age": 12,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Alli 60 mg tvrde kapsule",
+        "problems": [
+          "Tezina"
+        ],
+        "allergies": [
+          "Orlistat"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Ne"
+      },
+      {
+        "name":"Desloratadin ratiopharm 5 mg filmom obložene tablete" ,
+        "problems": [
+          "Alergija"
+        ],
+        "allergies": [
+          "Desloratadin",
+          "Loratidin"
+        ],
+        "minimum_age": 12,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "ellaOne 30 mg tableta",
+        "problems": [
+          "Zastita od trudnoce"
+        ],
+        "allergies": [
+          "Ulipristalacetat"
+        ],
+        "minimum_age": 18,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Hexoral 1 mg/ml otopina za grgljanje/ispiranje usta",
+        "problems": [
+          "Ciscenje usta"
+        ],
+        "allergies": [
+          "Heksetidin"
+        ],
+        "minimum_age": 12,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Lioton 1000 IU/g gel",
+        "problems": [
+          "Prosirene vene"
+        ],
+        "allergies": [
+          "Heparin"
+        ],
+        "minimum_age": 18,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Tyrosur 1 mg/g gel",
+        "problems": [
+          "Povrsinske rane"
+        ],
+        "allergies": [
+          "Tirotricin"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Tyrosur 1 mg/g prašak za kožu",
+        "problems": [
+          "Povrsinske rane"
+        ],
+        "allergies": [
+          "Tirotricin"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Espumisan 40 mg meke kapsule",
+        "problems": [
+          "Nadutost"
+        ],
+        "allergies": [
+          "Simetikon"
+        ],
+        "minimum_age": 6,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Prostamol uno 320 mg meke kapsule",
+        "problems": [
+          "Mokracni mjehur"
+        ],
+        "allergies": [
+          "Sabal"
+        ],
+        "minimum_age": 18,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Lupocet Junior 120 mg/5 ml sirup",
+        "problems": [
+          "Glavobolja",
+          "Zubobolja",
+          "Visoka tjelesna temperatura",
+          "Bolovi"
+        ],
+        "allergies": [
+          "Paracetamol"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Strepfen 8,75 mg pastile",
+        "problems": [
+          "Grlobolja"
+        ],
+        "allergies": [
+          "Flurbiprofen"
+        ],
+        "minimum_age": 12,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Itami 140 mg ljekoviti flaster",
+        "problems": [
+          "Bolovi",
+          "Modrice"
+        ],
+        "allergies": [
+          "Diklofenaknatrij"
+        ],
+        "minimum_age": 16,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Flonidan 10 mg tablete",
+        "problems": [
+          "Rinitis",
+          "Alergija"
+        ],
+        "allergies": [
+          "Loratadin"
+        ],
+        "minimum_age": 2,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Rinil 0,5 mg/ml sprej za nos, otopina",
+        "problems": [
+          "Rinitis",
+          "Zacepljen nos"
+        ],
+        "allergies": [
+          "Ksilometazolinklorid"
+        ],
+        "minimum_age": 2,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Linex Baby prašak za oralnu suspenziju",
+        "problems": [
+          "Proljev",
+          "Nadutost",
+          "Osjetljiva crijeva"
+        ],
+        "allergies": [
+          "Linex Baby prašak"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Lysobact 20 mg/10 mg stlačene pastile",
+        "problems": [
+          "Ciscenje usta"
+        ],
+        "allergies": [
+          "Lizozimklorid piridoksinklorid"
+        ],
+        "minimum_age": 6,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Iberogast oralne kapi, tekućina",
+        "problems": [
+          "Nadutost",
+          "Zgaravica",
+          "Bolovi"
+         
+        ],
+        "allergies": [
+          "Kamilica"
+        ],
+        "minimum_age": 6,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Dramina 50 mg tablete",
+        "problems": [
+          "Vrtoglavica",
+          "Povraćanje"
+        ],
+        "allergies": [
+          "Dimenhidrinat"
+        ],
+        "minimum_age": 5,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Viranti 5% štapić za kožu",
+        "problems": [
+          "Herpes na ustima ili licu"
+        ],
+        "allergies": [
+          "Aciklovir"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Prolax čepići",
+        "problems": [
+          "Zatvor"
+        ],
+        "allergies": [
+          "Glicerol"
+        ],
+        "minimum_age": 2,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Angal 5 mg / 1 mg pastile",
+        "problems": [
+          "Upala zdrijela"
+        ],
+        "allergies": [
+          "Klorheksidindiklorid lidokainklorid"
+        ],
+        "minimum_age": 6,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Herplex 50 mg/g krema",
+        "problems": [
+          "Herpes na ustima ili licu"
+        ],
+        "allergies": [
+          "Aciklovir"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Fluimukan 200 mg šumeće tablete",
+        "problems": [
+          "Produktivni kasalj"
+        ],
+        "allergies": [
+         "Acetilcistein"
+        ],
+        "minimum_age": 2,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Deep Relief gel",
+        "problems": [
+          "Istegnuce",
+          "Sportska ozljeda"
+        ],
+        "allergies": [
+          "Ibuprofen",
+          "Levomentol"
+        ],
+        "minimum_age": 12,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "RojazolDerm 20 mg/g krema",
+        "problems": [
+          "Gljivicna infekcija"
+        ],
+        "allergies": [
+         "Mikonazolnitrat"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Claritine 10 mg tablete",
+        "problems": [
+          "Alergija"
+        ],
+        "allergies": [
+         "Loratadin"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "Antimetil tablete",
+        "problems": [
+          "Povracanje"
+        ],
+        "allergies": [
+          "Đumbir"
+        ],
+        "minimum_age": 3,
+        "pregnancy": "Da"
+      },
+      {
+        "name": "NiQuitin flaster ili guma",
+        "problems": [
+          "Pusenje"
+        ],
+        "allergies": [
+          "Nikotin"
+        ],
+        "minimum_age": 12,
+        "pregnancy": "Ne"
+      },
+      {
+        "name": "Plimycol 10 mg/g krema",
+        "problems": [
+          "Gljivicna infekcija",
+          "Kozna infekcija"
+        ],
+        "allergies": [
+         "Klotrimazol"
+        ],
+        "minimum_age": 0,
+        "pregnancy": "Da"
+      }
+    ]
+  }
+  

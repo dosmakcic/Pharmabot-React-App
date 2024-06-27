@@ -1,0 +1,46 @@
+{
+    "Glavobolja": ["boli me glava","imam glavobolju", "glavobolja" ],
+    "Bolovi u misicima": ["imam problema s mišićima","mišići me bole","mišić"],
+    "Visoka tjelesna temperatura": ["imam temperaturu,","trebam nešto za povišenu temperaturu","povišena temperatura"],
+    "Zubobolja": ["boli me zub","imam upalu zuba","zub"],
+    "Menstrualna bol": ["menstruacija","menstrualna bol","imam menstruaciju"],
+    "Bolovi": ["imam bolove","bolovi","boli me tijelo iznutra"],
+    "Zgaravica": ["regurgitacija želučane kiseline","žgaravica","osjetim kiselinu u grlu","goruća bol u prsima","kiselina mi dolazi iz jednjaka u usta"],
+    "Zelučane tegobe": ["muče me želučane tegobe","kiselina u želucu","kiselina u jednjaku","želudac me boli"],
+    "Proljev": ["proljev","imam proljev"],
+    "Osjetljiva crijeva": ["osjetljiva crijeva","imam grčeve u želucu"],
+    "Nadutost": ["nadutost","imam osjećaj punoće u želucu","punoća uz vjetrove"],
+    "Produktivni kasalj": ["produktivni kašalj", "kašalj s iskašljavanjem", "kašalj s sluzi","kašljem sa sluzi","imam problema s produktivnim kašljanjem"],
+    "Zacepljen nos": ["začepljen nos", "nasalna kongestija", "teško disanje kroz nos","nos mi je začepljen"],
+    "Disni problem": ["dišni problem", "teškoće s disanjem", "otežano disanje","teže dišem"],
+    "Androgena alopecija": ["androgena alopecija","opada mi kosa","opadanje kose"],
+    "Jetra": ["oštećenje jetre","jetra","imam hepatitis"],
+    "Rinitis": ["rinitis","upala nosne suznice","kihanje","kišem"],
+    "Nadrazeno oko": ["treba mi nešto protiv nadraženosti oka","crveno oko","nadraženo oko"],
+    "Tezina": ["želim smršavjeti","tezina","mršavljenje","želim smanjiti kilažu","težina","smrsavjeti"],
+    "Alergija": ["alerija","alergijska reakcija"],
+    "Zastita od trudnoce": ["spriječavanje trudnoće","zaštita od trudnoće"],
+    "Ciscenje usta": ["pročiščavanje usta","čišćenje usta"],
+    "Prosirene vene": [" imam proširene vene","vene su vidljive plave boje"],
+    "Povrsinske rane": ["imam površinsku ranu","površinska rana"],
+    "Mokracni mjehur": ["mjehur","mokraćni mjehur","treba mi nešto za mjehur"],
+    "Grlobolja": ["boli me grlo","grlobolja","bolovi u grlu"],
+    "Modrice": ["modrice","hematom"],
+    "Vrtoglavica": ["imam vrtoglavicu","vrti mi se"],
+    "Povracanje": ["mučnina","povraćanje"],
+    "Herpes na ustima ili licu": ["herpes na usnama", "herpes na licu","herpes"],
+    "Zatvor": ["problemi sa  tvrdom stolicom", "zatvor","muči me zatvor"],
+    "Upala zdrijela": ["imam upalu ždrijela","ždrijelo"],
+    "Istegnuće": ["istegnuće", "nategnuće mišića","istegnuće gležnja","istegnula sam tetivu"],
+    "Sportska ozljeda": ["sportska ozljeda", "ozljeda tijekom sporta","upala mišića"],
+    "Gljivicna infekcija": ["gljivična infekcija", "infekcija kože gljivicama"],
+    "Kožna infekcija": ["kožna infekcija","infekcija kože"],
+    "Pusenje": ["pušenje","Pusenje","želim prestati pušiti.","prestanak pušenja","zeli prestat pusiti"],
+    "Da": ["da","jesam","Jesam"],
+    "Ne": ["ne","nisam","Nisam"]
+
+
+   
+   
+    
+  }
