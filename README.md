@@ -38,6 +38,10 @@ After the client and server sides are running, open a web browser (recommended: 
 
 - If you want to start new conversation,  click the button 'Reset' in the bottom-right corner.
 
+## App UI
+
+![Example](image.png)
+
 ## Author
 
 Pharmabot application was developed by Dorijan Osmakčić. 
